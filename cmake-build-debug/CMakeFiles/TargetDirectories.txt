@@ -1,0 +1,3 @@
+D:/11Code/C++/TrainCpp/TextFileSorter/cmake-build-debug/CMakeFiles/TextFileSorter.dir
+D:/11Code/C++/TrainCpp/TextFileSorter/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/11Code/C++/TrainCpp/TextFileSorter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
